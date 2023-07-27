@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">I'm KhoiVu, a full-time frontend developer 👨‍💻 working since 2021 🚀</div>
+### <div align="center">I'm KhoiVu, a full-time software engineer 👨‍💻 working since 2021 🚀</div>
 
 - 🌱 I’m currently learning React and AWS
 
